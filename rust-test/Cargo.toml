@@ -1,0 +1,10 @@
+[package]
+name = "rust-test"
+version = "0.1.0"
+authors = ["kevin batema <kevinbatema@gmail.com>"]
+
+[dependencies]
+tiny_http = "0.5.9"
+rustc-serialize = "0.3"
+rand="0.3.0"
+unix_socket="0.5.0"
